@@ -1,4 +1,4 @@
 # ASCII_Game
-A dungeon crawler game run in command line.
-Idea from MakingGamesWithBed on YouTube
-This is also my first time using GitHub
+<p>A dungeon crawler game run in command line.</p>
+<p>Idea from MakingGamesWithBed on YouTube</p>
+<p>This is also my first time using GitHub</p>
